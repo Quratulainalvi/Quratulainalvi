@@ -5,4 +5,5 @@
   <a href="https://www.linkedin.com/in/quratulain-alvi-550784b5/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
 </a>
+  <img src="https://komarev.com/ghpvc/?username=quratulainalvi&style=flat-square&color=blue" alt=""/>
 </div>
