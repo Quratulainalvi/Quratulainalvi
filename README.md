@@ -24,7 +24,7 @@ I am a project Manager from Pakistan.
 
 - :zap: In my free time, I read tech and management articles.
 
-- :mailbox:How to reach me: (https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url)](https://www.linkedin.com/in/quratulain-alvi-550784b5/)
+- :mailbox:How to reach me: (https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][([your-linkedin-url](https://www.linkedin.com/in/quratulain-alvi-550784b5/))
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
