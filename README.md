@@ -12,7 +12,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 
 ### :woman_technologist: About Me :
 Im a Google certified Project Manager with over 6 years of experience in delivering complex digital projects within budget and quality constraints.
