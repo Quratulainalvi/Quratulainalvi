@@ -38,9 +38,6 @@ Let's collaborate effectively and achieve successful outcomes together!
 </div>
 
 ---
----
-
-### :fire: Key Skills :
 ### :fire:Project 1: Digital Marketing Campaign for an event
 
 Description: Led a successful digital marketing campaign for the launch of a new event, resulting in a 10% increase in sales within the first week.
