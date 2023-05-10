@@ -40,11 +40,11 @@ Let's collaborate effectively and achieve successful outcomes together!
 ---
 
 ### :fire: Key Skills :
-Digital Project Management         Marketing & E-commerce
+Digital Project Management                             Marketing & E-commerce
 
-Content Management                 Advertising Campaigns
+Content Management                                     Advertising Campaigns
 
-Social Media Management            Recruitment & Staffing
+Social Media Management                                 Recruitment & Staffing
 
 Digital Marketing Campaigns       Customer Relationship Building
 
