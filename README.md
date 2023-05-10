@@ -116,7 +116,7 @@ Key Contributions:
 
 ---
 
-### 📚: Education and Certifications :
+### 📚 Education and Certifications :
 
 •	University of Management & Technology – MS (Software Engineering) 
 
