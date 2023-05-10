@@ -36,7 +36,7 @@ Let's collaborate effectively and achieve successful outcomes together!
 </div>
 
 ---
-### :🚀:Project 1: Digital Marketing Campaign for an event
+### 🚀:Project 1: Digital Marketing Campaign for an event
 
 Description: Led a successful digital marketing campaign for the launch of a new event, resulting in a 10% increase in sales within the first week.
 
@@ -62,7 +62,7 @@ Key Contributions:
 
 •	Analyzed social media performance using social listening tools and provided actionable insights for optimization.
 
-### :fire:Project 3: Website Optimization and SEO
+### 🚀:Project 3: Website Optimization and SEO
 
 Description: Implemented website optimization techniques and SEO strategies that resulted in a 60% increase in organic search traffic and improved search engine rankings.
 
