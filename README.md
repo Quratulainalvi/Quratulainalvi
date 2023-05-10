@@ -17,14 +17,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a project Manager from Pakistan.
-- :telescope: I’m working as a Project Manager and Managing onsite and remote teams.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I read tech and management articles.
-
-- :mailbox:How to reach me: (https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][([your-linkedin-url](https://www.linkedin.com/in/quratulain-alvi-550784b5/))
+'m a Google certified Project Manager with over 6 years of experience in delivering complex digital projects within budget and quality constraints.
+I excel at coordinating resources, identifying risks, and ensuring timely project execution. 
+My expertise includes digital project management, marketing, e-commerce, content management, advertising campaigns, social media management, recruitment, and more. 
+I'm a dedicated team player with strong leadership skills, focusing on training, coaching, and mentoring cross-functional teams. 
+Let's collaborate effectively and achieve successful outcomes together!
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
