@@ -47,12 +47,19 @@ Let's collaborate effectively and achieve successful outcomes together!
 “*”Content Management
 
 “*”Advertising Campaigns
+
 “*”Social Media Management
+
 “*”Recruitment & Staffing
+
 “*”Digital Marketing Campaigns
+
 Customer Relationship Building
+
 Web Development & Analytics
+
 Risk Assessment
+
 SEO Analysis/Link Building
 Teamwork and Capability Building
 Requirements Gathering
