@@ -80,10 +80,10 @@ Stakeholder Engagement
 
 ### :writing_hand: Education and Certifications :
 Education & Credentials
-University of Management & Technology – MS (Software Engineering)                                     
-Queen Mary College – BS (Computer Science)                                                                          
+University of Management & Technology – MS (Software Engineering) 
 
-Professional Development
+Queen Mary College – BS (Computer Science)   
+
 •	Google – Foundations of Project Management, 2021
 
 •	IBM – Python for Data Science, 2020
