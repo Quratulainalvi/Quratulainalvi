@@ -39,7 +39,7 @@ Let's collaborate effectively and achieve successful outcomes together!
 
 ---
 
-### :fire: My Stats :
+### :fire: Key Skills :
 https://github-readme-streak-stats.herokuapp.com/?user=quratulainalvi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Quratulainalvi&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Quratulainalvi)](https://git.io/streak-stats)
