@@ -40,49 +40,49 @@ Let's collaborate effectively and achieve successful outcomes together!
 ---
 
 ### :fire: Key Skills :
-Digital Project Management  
+•	Digital Project Management  
 
-Marketing & E-commerce
+•	Marketing & E-commerce
 
-Content Management  
+•	Content Management  
 
-Advertising Campaigns
+•	Advertising Campaigns
 
-Social Media Management 
+•	Social Media Management 
 
-Recruitment & Staffing
+•	Recruitment & Staffing
 
-Digital Marketing Campaigns   
+•	Digital Marketing Campaigns   
 
-Customer Relationship Building
+•	Customer Relationship Building
 
-Web Development & Analytics    
+•	Web Development & Analytics    
 
-Risk Assessment
+•	Risk Assessment
 
-SEO Analysis/Link Building    
+•	SEO Analysis/Link Building    
 
-Teamwork and Capability Building
+•	Teamwork and Capability Building
 
-Requirements Gathering   
+•	Requirements Gathering   
 
-CMS Solutions
+•	CMS Solutions
 
-Agile Development    
+•	Agile Development    
 
-Human Resources Management
+•	Human Resources Management
 
-Process Improvement  
+•	Process Improvement  
 
-Stakeholder Engagement
+•	Stakeholder Engagement
 
 ---
 
 ### :writing_hand: Education and Certifications :
-Education & Credentials
-University of Management & Technology – MS (Software Engineering) 
 
-Queen Mary College – BS (Computer Science)   
+•	University of Management & Technology – MS (Software Engineering) 
+
+•	Queen Mary College – BS (Computer Science)   
 
 •	Google – Foundations of Project Management, 2021
 
