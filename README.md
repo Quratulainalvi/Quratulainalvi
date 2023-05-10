@@ -47,7 +47,7 @@ Key Contributions:
 
 •	Monitored campaign metrics using Google Analytics and provided regular reports on key performance indicators (KPIs).
 
-### :fire:Project 2: Social Media Branding and Engagement Strategy
+### 🚀:Project 2: Social Media Branding and Engagement Strategy
 
 Description: Developed and implemented a social media branding and engagement strategy, resulting in a 30% increase in followers and improved brand sentiment.
 
