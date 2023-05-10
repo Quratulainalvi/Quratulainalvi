@@ -100,3 +100,9 @@ Let's collaborate effectively and achieve successful outcomes together!
 
 •	Peak Solutions College – Certificate in Web Development, 2014
 
+---
+### :writing_hand: Get in Touch :
+•	Email: annieawan26@gmail.com
+
+•	LinkedIn: https://www.linkedin.com/in/quratulain-alvi-550784b5/
+
