@@ -40,11 +40,24 @@ Let's collaborate effectively and achieve successful outcomes together!
 ---
 
 ### :fire: Key Skills :
-https://github-readme-streak-stats.herokuapp.com/?user=quratulainalvi
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Quratulainalvi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Quratulainalvi)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulainalvi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quratulainalvi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+“*”Digital Project Management
+“*”Marketing & E-commerce
+“*”Content Management
+“*”Advertising Campaigns
+“*”Social Media Management
+“*”Recruitment & Staffing
+“*”Digital Marketing Campaigns
+Customer Relationship Building
+Web Development & Analytics
+Risk Assessment
+SEO Analysis/Link Building
+Teamwork and Capability Building
+Requirements Gathering
+CMS Solutions
+Agile Development
+Human Resources Management
+Process Improvement
+Stakeholder Engagement
 
 ---
 
