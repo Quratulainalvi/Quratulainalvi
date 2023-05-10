@@ -41,8 +41,11 @@ Let's collaborate effectively and achieve successful outcomes together!
 
 ### :fire: Key Skills :
 “*”Digital Project Management
+
 “*”Marketing & E-commerce
+
 “*”Content Management
+
 “*”Advertising Campaigns
 “*”Social Media Management
 “*”Recruitment & Staffing
