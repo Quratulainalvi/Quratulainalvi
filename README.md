@@ -42,6 +42,7 @@ Let's collaborate effectively and achieve successful outcomes together!
 
 ### :fire: Key Skills :
 Project 1: Digital Marketing Campaign for an event
+
 Description: Led a successful digital marketing campaign for the launch of a new event, resulting in a 10% increase in sales within the first week.
 
 Key Contributions:
@@ -50,6 +51,7 @@ Key Contributions:
 •	Monitored campaign metrics using Google Analytics and provided regular reports on key performance indicators (KPIs).
 
 Project 2: Social Media Branding and Engagement Strategy
+
 Description: Developed and implemented a social media branding and engagement strategy, resulting in a 30% increase in followers and improved brand sentiment.
 
 Key Contributions:
@@ -60,6 +62,7 @@ Key Contributions:
 •	Analyzed social media performance using social listening tools and provided actionable insights for optimization.
 
 Project 3: Website Optimization and SEO
+
 Description: Implemented website optimization techniques and SEO strategies that resulted in a 60% increase in organic search traffic and improved search engine rankings.
 
 Key Contributions:
