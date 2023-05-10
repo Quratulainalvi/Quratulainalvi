@@ -78,6 +78,18 @@ Stakeholder Engagement
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### :writing_hand: Education and Certifications :
+Education & Credentials
+University of Management & Technology – MS (Software Engineering)                                     
+Queen Mary College – BS (Computer Science)                                                                          
+
+Professional Development
+•	Google – Foundations of Project Management, 2021
+•	IBM – Python for Data Science, 2020
+•	University of Management & Technology – Certificate in Data Science and AI, 2019
+•	Udemy – Introduction To Python Programming, 2018
+•	Udemy – How To Create a Website Using Word Press, 2018
+•	Udemy – Ultimate Search Engine Optimization Strategies, 2018
+•	Cambridge University – Teacher Knowledge Test, 2016
+•	Peak Solutions College – Certificate in Web Development, 2014
+
