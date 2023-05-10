@@ -116,7 +116,7 @@ Key Contributions:
 
 ---
 
-### :writing_hand: Education and Certifications :
+### 📚: Education and Certifications :
 
 •	University of Management & Technology – MS (Software Engineering) 
 
