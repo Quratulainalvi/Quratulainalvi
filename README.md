@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me :
-'m a Google certified Project Manager with over 6 years of experience in delivering complex digital projects within budget and quality constraints.
+Im a Google certified Project Manager with over 6 years of experience in delivering complex digital projects within budget and quality constraints.
 I excel at coordinating resources, identifying risks, and ensuring timely project execution. 
 My expertise includes digital project management, marketing, e-commerce, content management, advertising campaigns, social media management, recruitment, and more. 
 I'm a dedicated team player with strong leadership skills, focusing on training, coaching, and mentoring cross-functional teams. 
