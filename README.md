@@ -40,34 +40,23 @@ Let's collaborate effectively and achieve successful outcomes together!
 ---
 
 ### :fire: Key Skills :
-“*”Digital Project Management
+Digital Project Management         Marketing & E-commerce
 
-“*”Marketing & E-commerce
+Content Management                 Advertising Campaigns
 
-“*”Content Management
+Social Media Management            Recruitment & Staffing
 
-“*”Advertising Campaigns
+Digital Marketing Campaigns       Customer Relationship Building
 
-“*”Social Media Management
+Web Development & Analytics       Risk Assessment
 
-“*”Recruitment & Staffing
+SEO Analysis/Link Building        Teamwork and Capability Building
 
-“*”Digital Marketing Campaigns
+Requirements Gathering            CMS Solutions
 
-Customer Relationship Building
+Agile Development                 Human Resources Management
 
-Web Development & Analytics
-
-Risk Assessment
-
-SEO Analysis/Link Building
-Teamwork and Capability Building
-Requirements Gathering
-CMS Solutions
-Agile Development
-Human Resources Management
-Process Improvement
-Stakeholder Engagement
+Process Improvement               Stakeholder Engagement
 
 ---
 
