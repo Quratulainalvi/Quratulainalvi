@@ -143,4 +143,5 @@ Key Contributions:
 •	Email: annieawan26@gmail.com
 
 •	LinkedIn: https://www.linkedin.com/in/quratulain-alvi-550784b5/
+• Medium: https://medium.com/@annieawan26/smart-homes-what-how-and-will-be-56cc02973773
 
