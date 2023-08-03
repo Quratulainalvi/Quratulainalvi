@@ -137,12 +137,17 @@ Key Contributions:
 •	Cambridge University – Teacher Knowledge Test, 2016
 
 •	Peak Solutions College – Certificate in Web Development, 2014
-
+### 📚 Blogs :
+https://medium.com/@annieawan26/smart-homes-what-how-and-will-be-56cc02973773
+https://medium.com/@annieawan26/how-ai-can-change-the-job-of-project-managers-6a06d1e9cced
+https://medium.com/@annieawan26/classification-of-thyroid-nodules-using-2d-and-3d-ultrasound-images-a412e8a843a2
+https://medium.com/@annieawan26/how-to-start-an-ecommerce-business-in-pakistan-418dde1544f4
+https://medium.com/@annieawan26/5-ways-ai-will-change-the-future-of-marketing-in-2023-f5064554554b
 ---
 ### :writing_hand: Get in Touch :
 •	Email: annieawan26@gmail.com
 
 •	LinkedIn: https://www.linkedin.com/in/quratulain-alvi-550784b5/
 
-• Medium: https://medium.com/@annieawan26/smart-homes-what-how-and-will-be-56cc02973773
+• Medium: 
 
